@@ -1,4 +1,6 @@
-# **My Portfolio ** #
+# ** My Portfolio ** #
+
+![Screenshot](./assets/imagesMyPortfolio.png)
 
 Hi, I'm Kayla,
 I Create & Design Websites.
