@@ -39,12 +39,17 @@ h5{
   font-size: 20px;
 
 }
-  
+  h2{
+    color:white;
+    text-shadow:black 1px 0 10px;
+  }
 
 p {
-  font-size: 20px;
+  font-size: 25px;
   line-height: 1.5;
   margin-bottom: 20px;
+  color:white;
+  text-shadow:black 1px 0 10px;
 }
 .bg-primary {
   background-color: #F05F40;
@@ -680,11 +685,13 @@ a:active {
 .social{
     height: 50px;
     width: 50px;
+   
   
 }
 
 .social-icons{
   margin-left: 100px;
+
 }
 
 
@@ -708,9 +715,20 @@ footer > p {
 
 #contact{
   width: 100%;
+  background-image: url('../images/san-diego.jpg');
+  position: relative;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
 }
 
 .mr-auto{
   margin-left: 0;
   margin-right: 100px;
+  
+}
+
+.color-it{
+  color:white;
+
 }
