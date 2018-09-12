@@ -18,7 +18,7 @@ a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: #F05F40;
+  color: white;
 }
 a:hover,
 a:focus {
@@ -703,12 +703,13 @@ a:active {
 
 
 footer {
-  width: 100%;
+  width: 102%;
   background-color: #555;
   height: 75px;
-  clear: both;
-  padding-top: 20px;
-  margin-top: 200px;
+  /* clear: both; */
+  /* padding-top: 20px;
+  margin-top: 200px; */
+  margin: 0;
   
 
 }
