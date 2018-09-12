@@ -688,19 +688,25 @@ a:active {
 .phone{
     float: left;
     margin-left:0px;
+    margin-right:150px;
 }
 .social{
     height: 50px;
     width: 50px;
+
    
   
 }
 
 .social-icons{
-  margin-left: 100px;
+float: left;
 
 }
 
+.move{
+  margin-left:40%;
+  margin-right:40%;
+}
 
 footer {
   width: 102%;
