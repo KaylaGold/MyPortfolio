@@ -701,7 +701,13 @@ a:active {
 .social-icons{
 float: left;
 
-}
+-moz-box-shadow: 0 0 100px orangered;
+		-webkit-box-shadow: 0 0 100p orangered;
+		box-shadow: 0 0 100px orangered;
+		
+	}
+
+
 
 .move{
   margin-left:40%;
@@ -750,3 +756,34 @@ footer > p {
 a.ex2:hover, a.ex2:active {
   font-size: 120%;
 }
+
+
+h1:hover{
+    color: #fff;
+    text-shadow: 0 0 100px #666,                
+				 0 0 100px #666,                
+				 0 0 100px #666,                
+				 0 0 100px #666,                
+				 0 0 100px #666,                
+				 0 0 50px #000,                
+				 0 0 50px #000,                
+				 0 0 50px #000,               
+				 0 0 50px #000,                
+				 0 0 50px #000;
+}
+
+.border-right:hover{
+  color:#fff;
+  text-shadow: 0 0 100px #666,                
+       0 0 100px #666,                
+       0 0 100px #666,                
+       0 0 100px #666,                
+       0 0 100px #666,                
+       0 0 50px #000,                
+       0 0 50px #000,                
+       0 0 50px #000,               
+       0 0 50px #000,                
+       0 0 50px #000;
+}
+
+
