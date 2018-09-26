@@ -17,6 +17,8 @@ I am a full stack JavaScript web developer with a specialty in front-end and bac
 - MySQL
 - Sequelize
 - Mongo DB
+- Mongoose
+- React
 
 ## Website: ##
  https://kaylagold.github.io/MyPortfolio/
